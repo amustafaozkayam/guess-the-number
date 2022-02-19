@@ -56,7 +56,7 @@ guessButton.addEventListener('click', ()=>{
             guessInput.value > number ? (maxNumber.innerText = guessInput.value) : null}
 
         if (guessInput.value < number){
-            result.innerText='Incerase! '
+            result.innerText='Increase! '
             guessInput.value < number ? (minNumber.innerText = guessInput.value) : null}
 
     
