@@ -10,7 +10,7 @@ body{
     width: 100%;
     height: 100%;
     font-family: 'Mullish', sans-serif;
-    background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
+    background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
     display: flex;
     flex-direction: column;
     justify-content: center;
